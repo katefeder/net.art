@@ -1,0 +1,155 @@
+body {
+	text-align: center;
+	background-color: #EFE2BA;
+}
+
+p{
+  font-family: optima;
+  font-weight: bold;
+  font-size: 20px;
+  color: #2c3c70;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: left;
+  font-size: 16pt;
+}
+
+h1{
+  font-family: futura;
+font-style: bold;
+font-size: 36pt;
+color: #2c3c70;
+}
+
+h2{
+  color: #2c3c70;
+  font-style: italic;
+  text-align: center;
+  font-size: 20pt;
+  text-align: left;
+  margin-left: 300px;
+}
+
+h3 {
+  font-family: optima;
+  font-weight: bold;
+  color: #2c3c70;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: 20pt;
+}
+
+h4 {
+  font-family: optima;
+  font-weight: normal;
+  color: #2c3c70;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: 15pt;
+  text-align: left;
+}
+
+h5 {
+  font-family: futura;
+  font-weight: normal;
+  color: #2c3c70;
+  margin-left: 50px;
+  text-align: left;
+  font-size: 10pt;
+}
+
+.log_off {
+  border-radius: 28px;
+  font-family: futura;
+  color: #EFE2BA;
+  font-size: 20px;
+  background: #58b032;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.log_off:hover {
+  background: #468a29;
+  text-decoration: none;
+}
+
+.claim {
+  border-radius: 28px;
+  font-family: futura;
+  color: #EFE2BA;
+  font-size: 20px;
+  background: #f13c20;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.claim:hover {
+  background: #c2311a;
+  text-decoration: none;
+}
+
+.back {
+  border-radius: 28px;
+  font-family: futura;
+  color: #EFE2BA;
+  font-size: 20px;
+  background: #4056a1;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.back:hover {
+  background: #213371;
+  text-decoration: none;
+}
+
+.bedtime {
+  border-radius: 28px;
+  font-family: futura;
+  color: #EFE2BA;
+  font-size: 20px;
+  background: #ff6900;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.bedtime:hover {
+  background: #cf5500;
+  text-decoration: none;
+}
+
+#video {
+	margin-top: 20px;
+	border: 1px solid #2c3c70;
+	border-radius: 28px;
+  width: 475px;
+  height: 280px;
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#playBox {
+  margin-top: 20px;
+  border: 1px solid #2c3c70;
+  border-radius: 28px;
+  width: 475px;
+  height: 280px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #4056a1;
+  color: #EFE2BA;
+  font-family: futura;
+  font-size: 30px;
+  text-align: center;
+  cursor: pointer;
+}
+
+#playBox:hover {
+    background-color: #8796d2;
+  }
+
+.playText {
+    padding-top: 130px;
+  }
